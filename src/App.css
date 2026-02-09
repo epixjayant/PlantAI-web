@@ -5,6 +5,14 @@
   text-align: center;
 }
 
+variable {
+  --color-1: #d39135;
+  --color-2: #c6d335;
+  --color-3: #77d335;
+  --color-4: #3577d3;
+  --color-5: #9135d3;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
